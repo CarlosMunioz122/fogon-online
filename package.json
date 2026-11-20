@@ -1,0 +1,9 @@
+{
+  "name": "fogon-online",
+  "version": "1.0.0",
+  "description": "Fogón Dorado: juego de restaurante 3D con salas online",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
